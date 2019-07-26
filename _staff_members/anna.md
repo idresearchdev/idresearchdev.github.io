@@ -1,7 +1,7 @@
 ---
-name: Anna Thompson
-position: Marketing
+name: Ade Yoseman
+position: Founder
 image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
-twitter: CloudCannonApp
-blurb: Anna likes long walks on the beach and buffet breakfast.
+twitter: Johnleedik
+blurb: Ade Yoseman likes long walks on the beach and buffet breakfast.
 ---
