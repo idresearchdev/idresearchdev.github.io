@@ -1,7 +1,7 @@
 ---
-name: James Lopez
-position: Developer
+name: Azzedine Ramrami
+position: -
 image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
-twitter: CloudCannonApp
-blurb: James spends his weekends watching his favourite NBA team - L.A. Clippers.
+twitter: -
+blurb: 
 ---
